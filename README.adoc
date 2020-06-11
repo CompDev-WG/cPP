@@ -18,6 +18,8 @@ The CD-WG expects participants to follow a code of conduct. This is laid out in 
 == Contributing to the CD-WG
 The CD-WG welcomes contributions to the ongoing work of creating and maintaining the cPP and SD. Issues and Pull Requests can be submitted at any time for review by the iTC. New Issues can be submitted https://github.com/CompDev-WGcPP/issues/new/choose[here].
 
+A guide about contributing to the CD-WG can be found https://github.com/CompDev-WG/Governance/blob/Working/CONTRIBUTING.adoc[here].
+
 The CD-WG uses asciidoc files as the source files for generating the cPP and all related documents. Asciidoc is a text format that can be read directly in GitHub as well as offline using any number of editors (including simple text editors). https://asciidoctor.org[Asciidoctor] is used as the post-processor for generating the final (i.e. PDF or HTML) output from these files. The format of these files is fairly simple to understand.
 
 A syntax guide for the main flags you are likely to run into can be found in the the iTC Team Tools WG repository https://github.com/itc-wgtools/cPP-Tools/tree/master/User%20Guidance[Syntax Guide]. This file is designed to be viewed as both source and output (to see what the flags do). Questions about the syntax can be posted to as an https://github.com/itc-wgtools/cPP-Tools/tree/master/User%20Guidance[Issue] to that WG.
