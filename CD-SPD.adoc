@@ -1,16 +1,16 @@
-= Security Problem Definition for _Coffee Maker_
+= Security Problem Definition for Companion Devices
 :showtitle:
 :toc: macro
 :imagesdir: images
 :icons: font
 :revnumber: 0.1
-:revdate: 2019-09-06
+:revdate: 2020-06-10
 
-:iTC-longname: Coffee Maker
-:iTC-shortname: CM-iTC
-:iTC-email: cm-itc-mailing-list@gmail.com
-:iTC-website: https://coffeemaker.github.io/
-:iTC-GitHub: https://github.com/coffeemaker/repository/
+:iTC-longname: Companion Devices
+:iTC-shortname: CD-WG
+:iTC-email: compdev-wg@freelists.org
+:iTC-website: https://CompDev-WG.github.io/
+:iTC-GitHub: https://github.com/CompDev-WG/
 
 :sectnums!:
 

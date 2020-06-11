@@ -5,11 +5,11 @@ Within each template file are several features to guide the creation of the iTC 
 == iTC variables
 In many of the templates there will be a series of lines after the header all starting with :iTC.
 
-  :iTC-longname: Coffee Maker
-  :iTC-shortname: CM-iTC
-  :iTC-email: cm-itc-mailing-list@gmail.com
-  :iTC-website: https://coffeemaker.github.io/
-  :iTC-GitHub: https://github.com/coffeemaker/repository/
+ :iTC-longname: Companion Devices
+ :iTC-shortname: CD-WG
+ :iTC-email: compdev-wg@freelists.org
+ :iTC-website: https://CompDev-WG.github.io/
+ :iTC-GitHub: https://github.com/CompDev-WG/
 
 There may be more or less lines depending on the template, but all will follow this basic structure.
 

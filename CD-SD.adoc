@@ -1,4 +1,4 @@
-= Supporting Document Mandatory Technical Document: Evaluation Activities for collaborative Protection Profile for Coffee Maker
+= Supporting Document Mandatory Technical Document: Evaluation Activities for collaborative PP-Module for Companion Devices
 :showtitle:
 :toc: macro
 :toclevels: 7
@@ -6,18 +6,19 @@
 :table-caption: Table
 :imagesdir: images
 :icons: font
-:revnumber: 0.2
-:revdate: 2019-08-23
+:doctype: book
+:revnumber: 0.1
+:revdate: 2020-06-10
 :xrefstyle: full
 
-:iTC-longname: Coffee Maker
-:iTC-shortname: CM-iTC
-:iTC-email: cm-itc-mailing-list@gmail.com
-:iTC-website: https://coffeemaker.github.io/
-:iTC-GitHub: https://github.com/coffeemaker/repository/
-:pp-name: collaborative Protection Profile for Coffee Maker
-:pp-version: Version 1.0
-:pp-date: January 1, 2020
+:iTC-longname: Companion Devices
+:iTC-shortname: CD-WG
+:iTC-email: compdev-wg@freelists.org
+:iTC-website: https://CompDev-WG.github.io/
+:iTC-GitHub: https://github.com/CompDev-WG/
+:pp-name: Protection Profile for Mobile Device Fundamentals
+:pp-version: Version 4.0
+:pp-date: TBD
 
 == Foreword
 [BOILERPLATE]
@@ -29,7 +30,7 @@ This is a Supporting Document, intended to complement the Common Criteria (CC) v
 
 Supporting Documents may be "Guidance Documents", that highlight specific approaches and application of the standard to areas where no mutual recognition of its application is required, and as such, are not of normative nature, or "Mandatory Technical Documents", whose application is mandatory for evaluations whose scope is covered by that of the Supporting Document. The usage of the latter class is not only mandatory, but certificates issued as a result of their application are recognized under the CCRA.
 
-This Supporting Document has been developed by the {iTC-longname} iTC and is designed to be used to support the evaluations of TOEs against the cPP identified in <<Technology Area and Scope of Supporting Document>>.
+This Supporting Document has been developed by the {iTC-longname} iTC and is designed to be used to support the evaluations of TOEs against the PP-Module identified in <<Technology Area and Scope of Supporting Document>>.
 
 == Acknowledgements
 
@@ -42,8 +43,12 @@ _List iTC and Common Criteria Portal page_
 === Revision History
 
 .Revision history
+[%header,cols=".^1,.^2,.^4"]]
 |===
-|Version |Date |Description
+
+|Version
+|Date
+|Description
 
 |0.1
 |<DATE>
@@ -52,7 +57,6 @@ _List iTC and Common Criteria Portal page_
 |
 |
 |
-
 
 |===
 
@@ -513,6 +517,7 @@ In order to meet these goals some refinement of the AVA_VAN.1 CEM work units is 
 .Mapping of AVA_VAN.1 CEM Work Units to Evaluation Activities
 [cols="1,.^2",options="header",]
 |===
+
 |CEM AVA_VAN.1 Work Units
 |Evaluator Activities
 
@@ -857,11 +862,13 @@ A key used to encrypt data at rest.
 == Acronyms
 
 .Acronyms
-[cols="1,4",options="header",]
+[cols=".^1,.^4",options="header",]
 |===
+
 |Acronym
 |Meaning
 
 |
 |
+
 |===
